@@ -20,7 +20,6 @@ class User < ApplicationRecord
 end
 
 =begin
-
 Examples
 
 class Bike
